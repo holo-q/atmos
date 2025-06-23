@@ -1,0 +1,24 @@
+[project]
+name = "atmos"
+version = "0.1.0"
+description = "Audio-reactive token generation with LLMs"
+authors = [{ name = "Sir Your Name", email = "you@example.com" }]
+requires-python = ">=3.9"
+dependencies = [
+    "openai",
+    "numpy",
+    "librosa",
+    "resampy",
+    "scikit-learn",
+    "just_playback",
+    "matplotlib",
+    "opensimplex",
+    "rich",
+    "pynput",
+    "scipy",
+    "soundfile",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
