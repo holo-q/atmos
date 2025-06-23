@@ -1,4 +1,6 @@
-# Atmos - Audio-Reactive Temperature In LLMs
+# Atmos
+
+*Audio-Reactive Sampling in LLMs*
 
 This project is a proof-of-concept for exploring a novel method of influencing Large Language Model (LLM) inference by dynamically controlling the sampling temperature with the loudness of a music track.
 
